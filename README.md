@@ -6,7 +6,7 @@ I'm a student in ECE NTUA.
 ### 🚀 Programming Languages  
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="100"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Prolog-E61F06?style=flat-square&logo=prolog&logoColor=white" />
   <img src="https://img.shields.io/badge/-OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white" />
