@@ -1,7 +1,7 @@
-# Hi there! 👋  
+# Hello World! 👋  
 I'm a student in ECE NTUA.
 
-## 🛠 Languages & Tools
+## 🛠 My Languages & Tools:
 
 ### 🚀 Programming Languages  
 <p align="left">
