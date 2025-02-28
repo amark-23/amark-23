@@ -45,6 +45,14 @@ I'm a student in ECE NTUA.
   <img src="https://img.shields.io/badge/-Shell-FFD500?style=flat-square&logo=powershell&logoColor=black" />
 </p>
 
+### 🔌 Hardware & Embedded Systems  
+<p align="left">
+  <img src="https://img.shields.io/badge/-ATmega328PB-008000?style=flat-square&logo=atmel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Intel%208085-0071C5?style=flat-square&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MIPS-00599C?style=flat-square&logo=mips&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+</p>
 
 
 
