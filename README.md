@@ -44,6 +44,7 @@ I'm a student in ECE NTUA.
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/-Shell-FFD500?style=flat-square&logo=powershell&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Oracle_VM-F80000?style=flat-square&logo=oracle&logoColor=white" />
 </p>
 
 ### 🔌 Hardware & Embedded Systems  
