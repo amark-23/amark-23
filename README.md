@@ -58,7 +58,10 @@ I'm a student in ECE NTUA.
 
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=amark-23&show_icons=true&theme=tokyonight)
 
-![download](https://github.com/user-attachments/assets/fb2da287-f51b-4187-9621-fa9e6d1d1659)
+
+
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=amark-23&show_icons=true&theme=tokyonight)
 
