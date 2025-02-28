@@ -33,6 +33,7 @@ I'm a student in ECE NTUA.
   <img src="https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" />
   <img src="https://img.shields.io/badge/-Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
 </p>
 
 ### ⚙️ Tools & Frameworks
