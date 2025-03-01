@@ -16,7 +16,9 @@ I'm a student in ECE NTUA.
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://projectdana.com/swc/img/logo2.png""/>
+  <img src="https://img.shields.io/badge/-Dana-009688?style=flat-square&logo=code&logoColor=white" />
+</p>
+  
 </p>
 
 ### 📌 Web Development
