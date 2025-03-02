@@ -56,6 +56,7 @@ I'm a student in ECE NTUA.
   <img src="https://img.shields.io/badge/-MIPS-00599C?style=flat-square&logo=mips&logoColor=white" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ubuntu%20Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
 
