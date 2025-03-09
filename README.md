@@ -1,5 +1,3 @@
-# Hello World! 👋  
-I'm a student in ECE NTUA.
 
 ## 🛠 My Languages & Tools:
 
