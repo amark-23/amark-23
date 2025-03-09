@@ -67,7 +67,7 @@ I'm a student in ECE NTUA.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=amark-23&show_icons=true&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api?username=amark-23&show_icons=true&theme=tokyonight&rank_icon=github" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amark-23&layout=compact&langs_count=10&theme=tokyonight" />
