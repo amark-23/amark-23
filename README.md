@@ -64,7 +64,6 @@ I'm a student in ECE NTUA.
 
 
 
-
 <table>
   <tr>
     <td>
@@ -75,4 +74,3 @@ I'm a student in ECE NTUA.
     </td>
   </tr>
 </table>
-
