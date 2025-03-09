@@ -67,3 +67,9 @@ I'm a student in ECE NTUA.
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=amark-23&show_icons=true&theme=tokyonight)
+
+### 📊 Most Used Languages  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=10&theme=tokyonight" />
+</p>
+
