@@ -70,6 +70,6 @@ I'm a student in ECE NTUA.
 
 ### 📊 Most Used Languages  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=10&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amark-23&layout=compact&langs_count=10&theme=tokyonight" />
 </p>
 
