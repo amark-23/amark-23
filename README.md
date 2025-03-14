@@ -35,6 +35,8 @@
   <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaldi-%231F425F.svg?style=flat-square&logo=kaldi&logoColor=white"/>  
+    <img src="https://kaldi-asr.org/kaldi_logo.png" alt="Kaldi Logo" width="17"/> 
+  <img src="https://img.shields.io/badge/Kaldi-%231F425F.svg?style=flat-square" />
 </p>
 </p>
 </p>
