@@ -34,7 +34,8 @@
   <img src="https://img.shields.io/badge/-Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaldi-%231F425F.svg?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAKlBMVEX///8AAABVVVUAAP9VVVX/VVX/qqr//9X/VVX/VVX/VVX/VVX/VVVPD5N4AAAADnRSTlMAz3+Dv0AQn4DQkM/Ww9PLRAAAAJhJREFUGNNtzkEKwzAQRFFhWZXt/f9/qNFMEBIxPjcmSSDaMQUAvF3/2CDhujU+mASGbcO7tm7fOWGdbW8HPW4HeJAjKTqBgTV7RY9AyDqfVAQsmHFnFr7sQ9Rbco6GRH+ueXb+d+RxT1Ro80uc0kQAAAABJRU5ErkJggg==" />
+  <img src="https://img.shields.io/badge/Kaldi-%231F425F.svg?style=flat-square&logo=kaldi&logoColor=white"/>  
+</p>
 </p>
 </p>
 
