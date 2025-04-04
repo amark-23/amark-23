@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kaldi-1F425F?style=flat-square&logo=kaldi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 </p>
 </p>
 </p>
