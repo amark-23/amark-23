@@ -16,7 +16,7 @@
 
 ### About
 
-I'm a senior student in the five-year ECE diploma at NTUA, writing my thesis at the AILS lab. Most of what's here is me trying to understand something by building it myself.
+I'm a senior student in ECE NTUA. Most of what's here is me trying to understand something by building it myself.
 
 ### Projects
 
