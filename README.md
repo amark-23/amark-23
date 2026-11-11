@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=amark-23&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=%20at%20ECE%20NTUA&descColor=cfd8dc&descAlignY=60" alt="amark-23">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=amark-23&fontColor=ffffff&fontSize=54&fontAlignY=38&descColor=cfd8dc&descAlignY=60" alt="amark-23">
 
 <a href="https://github.com/amark-23?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=5EC8E5&center=true&vCenter=true&width=520&lines=%24+pip+install+curiosity+--upgrade;Successfully+installed+curiosity;status:+drinking+coffee" alt="Typing intro"></a>
 
